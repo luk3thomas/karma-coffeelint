@@ -1,5 +1,10 @@
 # karma-coffeelint
 
+[![Build Status](https://travis-ci.org/luk3thomas/karma-coffeelint.svg)](https://travis-ci.org/luk3thomas/karma-coffeelint)
+
+[![NPM Package Stats](https://nodei.co/npm/karma-coffeelint.png)](https://www.npmjs.org/package/karma-coffeelint)
+
+
 A [coffeelint](http://www.coffeelint.org/) plugin for karma.
 
 
