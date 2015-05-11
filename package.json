@@ -2,7 +2,7 @@
   "name": "karma-coffeelint",
   "main": "src/index.js",
   "description": "Lint CoffeeScript in karma",
-  "version": "0.0.0",
+  "version": "0.0.01",
   "scripts": {
     "test": "./node_modules/.bin/jasmine-node --coffee test/index.spec.coffee",
     "testw": "./node_modules/.bin/jasmine-node --autotest --watch src/ --color --coffee test/index.spec.coffee"
