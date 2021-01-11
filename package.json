@@ -2,7 +2,7 @@
   "name": "karma-coffeelint",
   "main": "src/index.js",
   "description": "Lint CoffeeScript in karma",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Luke Thomas <luk3thomas@gmail.com>",
   "keywords": [
     "coffeelint",
