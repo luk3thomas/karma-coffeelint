@@ -4,8 +4,15 @@
   "description": "Lint CoffeeScript in karma",
   "version": "0.0.1",
   "author": "Luke Thomas <luk3thomas@gmail.com>",
-  "keywords": ["coffeelint", "karma", "karma-plugin", "karma-preprocessor"],
-  "licenses": ["MIT"],
+  "keywords": [
+    "coffeelint",
+    "karma",
+    "karma-plugin",
+    "karma-preprocessor"
+  ],
+  "licenses": [
+    "MIT"
+  ],
   "scripts": {
     "test": "./node_modules/.bin/jasmine-node --coffee test/index.spec.coffee",
     "testw": "./node_modules/.bin/jasmine-node --autotest --watch src/ --color --coffee test/index.spec.coffee"
@@ -15,7 +22,7 @@
     "url": "https://github.com/luk3thomas/karma-coffeelint.git"
   },
   "dependencies": {
-    "coffeelint": "1.9.4",
+    "coffeelint": "2.1.0",
     "extend": "2.0.1"
   },
   "devDependencies": {
