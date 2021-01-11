@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "coffeelint": "2.1.0",
-    "extend": "2.0.1"
+    "extend": "2.0.2"
   },
   "devDependencies": {
     "coffee-script": "^1.9.2",
